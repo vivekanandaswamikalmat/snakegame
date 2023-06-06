@@ -38,3 +38,7 @@ We have attempted to design and implement a simple “SNAKE GAME”. OpenGL supp
 
 The project was started with the designing phase in which we figured the requirements needed, the layout design, then comes the detail designing of each function after which, was the testing and debugging stage. We have tried to implement the project making it as user-friendly and error free as possible. We regret any errors that may have inadvertently crept in.
 
+FUTURE ENHANCEMENT		
+
+We can observe that the score of the player is not shown after the game has been ended, it will be a very good enhancement for the game to make the player know how much did he score.
+Also a High Score board on the main screen is a good feature any game can provide, so we will enable that feature done in  the future.
