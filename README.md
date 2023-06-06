@@ -10,7 +10,9 @@ As a result of the course work, the computer game "Snake" was created in the C++
 SNAPSHOT
 
 ![image](https://github.com/vivekanandaswamikalmat/snakegame/assets/72151144/e8c49fda-7565-428a-8ddd-1073843568b1)
+
 Figure 5.1: Start window screen 
  
 ![image](https://github.com/vivekanandaswamikalmat/snakegame/assets/72151144/14ac0cea-cb63-4503-9771-a7b434490a92)
+
 Figure 5.2: Game running window 
