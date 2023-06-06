@@ -31,3 +31,9 @@ Figure 5.1: Start window screen
 ![image](https://github.com/vivekanandaswamikalmat/snakegame/assets/72151144/14ac0cea-cb63-4503-9771-a7b434490a92)
 
 Figure 5.2: Game running window 
+
+CONCLUSION
+ 
+ 	We have attempted to design and implement a simple “SNAKE GAME”. OpenGL supports enormous flexibility in the design and the use of OpenGL graphics programs. The presence of many built in classes methods take care of much functionality and reduce the job of coding as well as makes the implementation simpler. 
+ The project was started with the designing phase in which we figured the requirements needed, the layout design, then comes the detail designing of each function after which, was the testing and debugging stage. We have tried to implement the project making it as user-friendly and error free as possible. We regret any errors that may have inadvertently crept in.
+
